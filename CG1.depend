@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1488272420 source:c:\users\mardan safarov\desktop\mardansafarov_terrain\initshader.cpp
+	"Angel.h"
+	"math.h"
+
+1487063406 c:\users\mardan safarov\desktop\mardansafarov_terrain\angel.h
+	<cmath>
+	<iostream>
+	<stdio.h>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/freeglut_ext.h>
+	"vec.h"
+	"mat.h"
+
+1491500886 c:\users\mardan safarov\desktop\mardansafarov_terrain\vec.h
+	"Angel.h"
+
+1488434000 c:\users\mardan safarov\desktop\mardansafarov_terrain\mat.h
+	"vec.h"
+
+1493318791 source:c:\users\mardan safarov\desktop\mardansafarov_terrain\example1.cpp
+	"Angel.h"
+	"math.h"
+	"mat.h"
+
+1493321718 source:c:\users\mardan safarov\desktop\mardansafarov_hw3\example1.cpp
+	"Angel.h"
+	"math.h"
+	"mat.h"
+
+1487063406 c:\users\mardan safarov\desktop\mardansafarov_hw3\angel.h
+	<cmath>
+	<iostream>
+	<stdio.h>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/freeglut_ext.h>
+	"vec.h"
+	"mat.h"
+
+1491500886 c:\users\mardan safarov\desktop\mardansafarov_hw3\vec.h
+	"Angel.h"
+
+1488434000 c:\users\mardan safarov\desktop\mardansafarov_hw3\mat.h
+	"vec.h"
+
+1488272420 source:c:\users\mardan safarov\desktop\mardansafarov_hw3\initshader.cpp
+	"Angel.h"
+	"math.h"
+
+1493321984 source:c:\users\mardan safarov\desktop\cg\mardansafarov_hw3\example1.cpp
+	"Angel.h"
+	"math.h"
+	"mat.h"
+
+1487063406 c:\users\mardan safarov\desktop\cg\mardansafarov_hw3\angel.h
+	<cmath>
+	<iostream>
+	<stdio.h>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/freeglut_ext.h>
+	"vec.h"
+	"mat.h"
+
+1491500886 c:\users\mardan safarov\desktop\cg\mardansafarov_hw3\vec.h
+	"Angel.h"
+
+1488434000 c:\users\mardan safarov\desktop\cg\mardansafarov_hw3\mat.h
+	"vec.h"
+
+1488272420 source:c:\users\mardan safarov\desktop\cg\mardansafarov_hw3\initshader.cpp
+	"Angel.h"
+	"math.h"
+
